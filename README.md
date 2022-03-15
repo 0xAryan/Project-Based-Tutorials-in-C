@@ -32,7 +32,7 @@ A list of tutorials that work through the creation of small, medium, and large p
 * [Write a simple memory allocator](https://arjunsreedharan.org/post/148675821737/write-a-simple-memory-allocator)
 * [How to Program an NES game in C](https://nesdoug.com/)
 * [Baby's First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-* [Implementing a virtual machine in C](https://felixangell.com/blog/virtual-machine-in-c)
+* [Implementing a virtual machine in C](https://felixangell.com/blogs/virtual-machine-in-c)
 * Scheme from Scratch
     * [Part 1 - Introduction](http://peter.michaux.ca/articles/scheme-from-scratch-introduction)
     * [Part 2 - Integers](http://peter.michaux.ca/articles/scheme-from-scratch-bootstrap-v0_1-integers)
